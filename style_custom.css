@@ -700,8 +700,19 @@ img {
     padding-bottom: 0
 }
 
+.footer {
+	background: #070e16;
+	padding: 15px;
+}
+
 .footer p {
-    font-size: 1.3rem
+    font-size: 1.3rem;
+	margin-bottom: 0;
+	color: #FCFCFC;
+}
+
+.footer p a {
+	color: #FD2121;
 }
 
 .navigation {
